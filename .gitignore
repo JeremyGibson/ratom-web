@@ -30,3 +30,4 @@ deployment/roles/
 .python-version
 .vscode
 .envrc
+.direnv
